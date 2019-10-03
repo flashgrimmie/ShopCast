@@ -2,7 +2,10 @@
 This is ShopCast admin panel written in CodeIgniter PHP Framework.
 
 
-##This is production mode project, so to run in development mode on your local, do something below.
+![Screenshot](screencapture01.png)
+![Screenshot](screencapture02.png)
+
+## This is production mode project, so to run in development mode on your local, do something below.
 
 ### index.php
 line 21: define('ENVIRONMENT', 'development');
@@ -17,6 +20,10 @@ line 62: $db['default']['dbcollat'] = 'utf8_general_ci';
 
 ## database
 shopcast_booker.zip
+
+## user login
+andrew
+123456
 
 ## reference
 c:\xampp\php\php.ini
