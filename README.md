@@ -1,4 +1,4 @@
-# ShopCast-booker-admin-codeigniter
+# ShopCast booker
 This is ShopCast admin panel written in CodeIgniter PHP Framework.
 
 
